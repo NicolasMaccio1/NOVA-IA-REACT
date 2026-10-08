@@ -2,15 +2,6 @@
 
 Migración del sitio NOVA IA (hecho antes en HTML y CSS) a componentes de **React**, usando **Vite** para crear y ejecutar el proyecto.
 
-## Cómo ejecutarlo
-
-```bash
-npm install
-npm run dev
-```
-
-Luego abrir en el navegador la dirección que muestra la terminal (por ejemplo `http://localhost:5173`).
-
 ## Estructura
 
 ```text
